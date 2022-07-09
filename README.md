@@ -1,19 +1,10 @@
 ### Olá, me chamo Otavio Lopes 👋😉
-<p align="center">
+
   - 👀 Apaixonado por estudar tecnologias web;
-</p>
-<p align="center">
   - 📚 Estudos: Atualmente cursando Ciencia da computação focado em Full Stack na Descomplica Faculdade digital;
-</p>
-<p align="center">
   - 🧬 Soft Skills: Trabalho em equipe, Flexibilidade, Liderança;
-</p>
-<p align="center">
   - ⚡ Hard Skills: HTML5, CSS3, JS, Python;
-</p>
-<p align="center">
   - 💼 Trabalho: A procura de uma oportunidade como Estágiario;
-</p>
 
 ## Contatos  
 <p align="center">
