@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1>👋😉 Olá, me chamo Otávio Lopes </h1>
   <p>😍 <b>Apaixonado</b> por estudar tecnologias web;</p>
   <p>📚 <b>Estudos:</b> Cursando ciência da computação focado em Full Stack na Descomplica Faculdade Digital;</p>
@@ -17,13 +17,13 @@
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioLopes5&layout=compact&theme=dracula&count_private=true&custom_title=Tecnologias Mais Utilizadas"/>
   
-  <h3 align="center">🔥 Tecnologias que estou aprendendo</h2>
+  <h3>🔥 Tecnologias que estou aprendendo</h2>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/><br>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
