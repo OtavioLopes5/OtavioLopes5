@@ -4,7 +4,7 @@
   <p>📚 <b>Estudos:</b> Cursando ciência da computação focado em Full Stack na Descomplica Faculdade Digital;</p>
   <p>🧬 <b>Soft Skills:</b> Trabalho em equipe, Flexibilidade, Liderança;</p>
   <p>⚡ <b>Hard Skills:</b> HTML5, CSS3, JS, Python;</p>
-  <p>💼 <b>Trabalho:</b> À procura de uma oportunidade de Estágio;</p>
+  <p>💼 <b>Trabalho:</b> Momento Editorial;</p>
 
   <a href="https://www.linkedin.com/in/otaviolf/" alt="Linkedin" target="_blank" rel="noopener noreferrer">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"></a>
