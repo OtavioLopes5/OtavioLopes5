@@ -2,9 +2,9 @@
   <h1>👋😉 Olá, me chamo Otávio Lopes </h1>
   <p>😍 <b>Apaixonado</b> por estudar tecnologias web;</p>
   <p>📚 <b>Estudos:</b> Cursando ciência da computação focado em Full Stack na Descomplica Faculdade Digital;</p>
-  <p>🧬 <b>Soft Skills:</b> Trabalho em equipe, Flexibilidade, Liderança;</p>
+  <p>🧬 <b>Soft Skills:</b> Organização, Flexibilidade, Liderança;</p>
   <p>⚡ <b>Hard Skills:</b> HTML5, CSS3, JS, Python;</p>
-  <p>💼 <b>Trabalho:</b> Momento Editorial;</p>
+  <p>💼 <b>Trabalho:</b> <a href="https://www.eventos.momentoeditorial.com.br/quem-somos/">Momento Editorial</a>;</p>
 
   <a href="https://www.linkedin.com/in/otaviolf/" alt="Linkedin" target="_blank" rel="noopener noreferrer">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"></a>
