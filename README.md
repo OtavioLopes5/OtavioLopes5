@@ -4,7 +4,7 @@
   <p>📚 <b>Estudos:</b> Cursando ciência da computação focado em Full Stack na Descomplica Faculdade Digital;</p>
   <p>🧬 <b>Soft Skills:</b> Organização, Flexibilidade, Liderança;</p>
   <p>⚡ <b>Hard Skills:</b> HTML5, CSS3, JS, Python;</p>
-  <p>💼 <b>Trabalho:</b> <a href="https://www.eventos.momentoeditorial.com.br/quem-somos/">Momento Editorial</a>;</p>
+  <p>💼 <b>Trabalho:</b> <a href="https://www.eventos.momentoeditorial.com.br/quem-somos/">Momento Editorial</a>, <a href="https://dolf.site/">DOLF</a>;</p>
 
   <a href="https://www.linkedin.com/in/otaviolf/" alt="Linkedin" target="_blank" rel="noopener noreferrer">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"></a>
