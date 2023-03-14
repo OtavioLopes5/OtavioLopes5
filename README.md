@@ -15,8 +15,6 @@
   
   <hr>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioLopes5&layout=compact&theme=dracula&count_private=true&custom_title=Tecnologias Mais Utilizadas"/>
-  
   <h3>🔥 Tecnologias que estou aprendendo</h2>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
