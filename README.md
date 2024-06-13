@@ -1,7 +1,5 @@
 <div align="left">
   <h1>👋😉 Olá, me chamo Otávio Lopes </h1>
-  <p>😍 <b>Apaixonado</b> por estudar tecnologias web;</p>
-  <p>📚 <b>Estudos:</b> Cursando ciência da computação focado em Full Stack na Descomplica Faculdade Digital;</p>
   <p>🧬 <b>Soft Skills:</b> Organização, Flexibilidade, Liderança;</p>
   <p>⚡ <b>Hard Skills:</b> HTML5, CSS3, JS, Python;</p>
 
