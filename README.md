@@ -1,7 +1,7 @@
 <div align="left">
   <h1>👋😉 Olá, me chamo Otávio Lopes </h1>
-  <p>🧬 <b>Soft Skills:</b> Organização, Flexibilidade, Liderança;</p>
-  <p>⚡ <b>Hard Skills:</b> HTML5, CSS3, JS, Python;</p>
+  <p>🧬 <b>Soft Skills:</b> Organização, Flexibilidade, Liderança, criatividade;</p>
+  <p>⚡ <b>Hard Skills:</b> HTML5, CSS3, JS, Wordpress;</p>
 
   <a href="https://www.linkedin.com/in/otaviolf/" alt="Linkedin" target="_blank" rel="noopener noreferrer">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"></a>
